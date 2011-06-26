@@ -15,6 +15,7 @@
   </compiler>
   <applications>
     <application path="HelloWorld.mxml"/>
+    <application path="Dongwook.mxml"/>
   </applications>
   <modules/>
   <buildCSSFiles/>
